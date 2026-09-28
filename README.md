@@ -12,3 +12,5 @@ Database Used: sqlite
 - Edit Task
 - Delete Task
 - Update Status
+
+<img width="521" height="251" alt="image" src="https://github.com/user-attachments/assets/eaee21b3-bfed-4179-8f43-d7717147ae8c" />
